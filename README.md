@@ -1,13 +1,13 @@
 # Shubham Pawar
 
-**Senior Software Engineer**
+**Software Engineer**
 
 I build scalable, high-performance software systems with a strong focus on backend,
 cloud-native architectures, and data-driven applications.  
 Experienced in designing clean APIs, ETL pipelines, and production-ready full-stack solutions.
 
 🔗 Portfolio: https://shubham-pawar.github.io  
-🔗 LinkedIn: https://www.linkedin.com/in/shubham-pawar16/
+🔗 LinkedIn: https://www.linkedin.com/in/shubhamsp1/
 
 ---
 
@@ -42,4 +42,4 @@ Experienced in designing clean APIs, ETL pipelines, and production-ready full-st
 
 ## 🤝 Connect
 - Portfolio: https://shubham-pawar.github.io  
-- LinkedIn: https://www.linkedin.com/in/shubham-pawar16/
+- LinkedIn: https://www.linkedin.com/in/shubhamsp1/
