@@ -7,7 +7,7 @@ cloud-native architectures, and data-driven applications.
 Experienced in designing clean APIs, ETL pipelines, and production-ready full-stack solutions.
 
 🔗 Portfolio: https://shubham-pawar.github.io  
-🔗 LinkedIn: https://www.linkedin.com/in/shubhamsp1/
+🔗 LinkedIn: https://www.linkedin.com/in/shubhampawar1/
 
 ---
 
@@ -42,4 +42,4 @@ Experienced in designing clean APIs, ETL pipelines, and production-ready full-st
 
 ## 🤝 Connect
 - Portfolio: https://shubham-pawar.github.io  
-- LinkedIn: https://www.linkedin.com/in/shubhamsp1/
+- LinkedIn: https://www.linkedin.com/in/shubhampawar1/
