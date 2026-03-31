@@ -6,9 +6,6 @@ I build scalable, high-performance software systems with a strong focus on backe
 cloud-native architectures, and data-driven applications.  
 Experienced in designing clean APIs, ETL pipelines, and production-ready full-stack solutions.
 
-🔗 Portfolio: https://shubham-pawar.github.io  
-🔗 LinkedIn: https://www.linkedin.com/in/shubhampawar1/
-
 ---
 
 ## 🛠️ Tech Stack
