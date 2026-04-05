@@ -1,42 +1,73 @@
-# Shubham Pawar
+# 👋 Hi, I'm Shubham Pawar
 
-**Software Engineer**
+### 🚀 Software Engineer | Backend • Cloud • Full-Stack
 
-I build scalable, high-performance software systems with a strong focus on backend,
-cloud-native architectures, and data-driven applications.  
-Experienced in designing clean APIs, ETL pipelines, and production-ready full-stack solutions.
+I build **scalable, high-performance systems** with a focus on backend architecture,
+cloud-native solutions, and real-world business impact.
+
+💡 Currently working on CRM & ERP systems in a manufacturing environment  
+🔧 Passionate about clean architecture, performance optimization & problem-solving  
+📈 I love turning complex requirements into simple, reliable systems  
+
+---
+
+## 🐱‍💻 Coding in Progress
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat coding on laptop"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 </p>
 
-### Frameworks & Libraries
+### ⚙️ Frameworks
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
 </p>
 
-### Cloud, DevOps & Databases
+### ☁️ Cloud & DevOps
 <p>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
 ---
 
-## 🤝 Connect
-- Portfolio: https://shubham-pawar.github.io  
-- LinkedIn: https://www.linkedin.com/in/shubhampawar1/
+## 💼 What I Do
+
+- 🏗️ Design scalable backend systems & APIs  
+- 🔄 Build ETL pipelines & data-driven applications  
+- ☁️ Develop cloud-native and containerized solutions  
+- 🧩 Integrate complex business systems (CRM, ERP)  
+- 🚀 Optimize performance & system reliability  
+
+---
+
+## 🤝 Connect With Me
+
+- 🌐 Portfolio: https://shubham-pawar.github.io  
+- 💼 LinkedIn: https://www.linkedin.com/in/shubhampawar1/
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving real-world business problems more than just writing code —  
+**impact > complexity**
