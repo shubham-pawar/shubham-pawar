@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubham Pawar
+# 👋 Hi, I am Shubham Pawar
 
 ### 🚀 Software Engineer | Backend • Cloud • Full-Stack
 
