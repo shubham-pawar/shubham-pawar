@@ -13,7 +13,7 @@ cloud-native solutions, and real-world business impact.
 
 ## 🐱‍💻 Coding in Progress
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat coding on laptop"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="300" alt="Cat coding on laptop"/>
 </p>
 
 ---
